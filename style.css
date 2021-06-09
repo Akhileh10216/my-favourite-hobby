@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-size: 20px;
+    background: linear-gradient(#A1D8E7 0%, #0625FB 100%);
+}
+
+#b {
+    height: 75px;
+    width: 50px;
+    padding: 800px;
+}
+
+#hobby {
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+    color: gold;
+}
+
+.link {
+    float: left;
+    color: coral;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    font-family: serif;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: darkcyan;
+}
